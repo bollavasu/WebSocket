@@ -1,9 +1,8 @@
 
 https://github.com/sushant097/-Chat-Application-in-Java/tree/master/WebSocket02
 
-1)Deploy in Tomcat
-2)Open 3 browsers and do chatting
-  http://localhost:8080/WebSocket/default.html
+- Deploy in Tomcat
+- Open 3 browsers and do chatting http://localhost:8080/WebSocket/default.html
  
  
 Project made on Java.
